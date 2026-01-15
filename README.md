@@ -1,3 +1,8 @@
+# OnnxOCR C++
+
+> Based on [OnnxOCR](https://github.com/RapidAI/OnnxOCR)
+
+
 ## Requirements
 
 - C++17 or higher
