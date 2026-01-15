@@ -1,3 +1,5 @@
+[简体中文](README_CN.md)
+
 ## OnnxOCR C++
 
 > Based on [OnnxOCR](https://github.com/RapidAI/OnnxOCR)
