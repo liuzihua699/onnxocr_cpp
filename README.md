@@ -20,7 +20,7 @@
 git clone --recursive https://github.com/microsoft/onnxruntime.git
 cd onnxruntime
 # ./build.sh --config Release --build_shared_lib --parallel
-./build.sh --config Release --build_shared_lib --parallel --skip_submodule_sync --allow_running_as_root --cmake_path /home/lzh/cmake3.8/cmake-3.28.0-linux-x86_64/bin/cmake
+./build.sh --config Release --build_shared_lib --parallel --skip_submodule_sync --allow_running_as_root
 cd build/Linux/Release
 sudo make install
 ```
